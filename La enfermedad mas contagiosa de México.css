@@ -1,0 +1,62 @@
+body{
+  font-family: 'Merriweather', serif;
+  font-size: 17px;
+}
+
+.container{
+  margin: 200px 200px 0 200px;
+}
+
+
+.Encabezado{
+  margin: 50px;
+  text-align: center;
+  font-size: 15px;
+}
+
+.FECHA {
+  font-size: 15px;
+  text-align: justify;
+  margin:70px;
+}
+
+.Autor{
+  font-size: 15px;
+  text-align: justify;
+  margin: 70px;
+
+}
+
+.Parrafo1{
+  text-align: justify;
+  margin:70px;
+
+}
+
+.Parrafo2{
+  margin: 30px 0;
+  text-align: justify;
+
+}
+
+.Parrafo3{
+	margin: 60px;
+  text-align: justify;
+
+}
+.Fin{
+  font-size: 18px;
+  text-align: center;
+
+}
+
+
+
+/*
+
+
+.div {
+  margin-bottom:0;
+}
+
+*/
