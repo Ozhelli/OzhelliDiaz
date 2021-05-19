@@ -226,3 +226,67 @@ top: 380px
   left:-200px;
 }
 }
+@media screen and (max-width: 500px){
+  .home{
+   
+    position: absolute;
+    top: 130px;
+    left:100px;
+    
+  }
+  .About{
+    position: absolute;
+    top: 130px;
+    left: 200px;
+  }
+  
+  .enfermedad{
+    position: absolute;
+    top:350px;
+   width: 50%;
+   height: 50%;
+
+  }
+  .tituloAE{
+    position:absolute;
+    top: 470px;
+  }
+  .hdiario{
+    top: 160px;
+    left: 5px;
+  }
+  .C2{
+    position: absolute;
+    top:700px;
+  }
+  .Desc2{
+    position: absolute;
+    top: 870px; 
+  }
+  .C1{
+    position: absolute;
+    top: 1000px;
+    right: 130px;
+  }
+  .Desc1{
+    position: absolute;
+    left: 60px;
+    top: 1170px;
+    font-size: 30px;
+    width: 100%;
+  }
+.Rd{
+  top:580px;
+  font-size: 40px;
+}
+.portada{
+  position: absolute;
+  right: 100px;
+}
+.Parrafo1{
+  font-size: 20px;
+  width: 100%;
+  position: absolute;
+  left:-200px;
+}
+}
