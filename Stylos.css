@@ -163,11 +163,6 @@ top: 380px
   
 }
 @media screen and (max-width: 400px){
-.redes-container{
- right: 40px;	
- position: absolute; 	
-
-	}
   .home{
    
     position: absolute;
@@ -233,9 +228,11 @@ top: 380px
 }
 @media screen and (max-width: 500px){
   .redes-container{
-   right: 40px;	
-   position: absolute; 	
-            }
+   position: absolute;
+   right: 75px;
+
+
+  }
   .home{
    
     position: absolute;
@@ -251,6 +248,7 @@ top: 380px
   
   .enfermedad{
     position: absolute;
+    left: 40px;
     top:350px;
    width: 50%;
    height: 50%;
@@ -258,6 +256,7 @@ top: 380px
   }
   .tituloAE{
     position:absolute;
+    left: 40px;
     top: 470px;
   }
   .hdiario{
@@ -267,9 +266,11 @@ top: 380px
   .C2{
     position: absolute;
     top:700px;
+    right: 90px;
   }
   .Desc2{
     position: absolute;
+    right: 90px;
     top: 870px; 
   }
   .C1{
