@@ -163,6 +163,11 @@ top: 380px
   
 }
 @media screen and (max-width: 400px){
+.redes-container{
+ right: 40px;	
+ position: absolute; 	
+
+	}
   .home{
    
     position: absolute;
@@ -227,6 +232,10 @@ top: 380px
 }
 }
 @media screen and (max-width: 500px){
+  .redes-container{
+   right: 40px;	
+   position: absolute; 	
+            }
   .home{
    
     position: absolute;
