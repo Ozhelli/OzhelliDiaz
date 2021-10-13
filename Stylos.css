@@ -140,6 +140,7 @@ font-size: 20px;
   font-family: 'Teko', sans-serif;
 top: 250px;
 position: absolute;
+text-align: justify;
 }
 .C1{
 position: absolute;
@@ -223,12 +224,13 @@ top: 380px
   top:580px;
   font-size: 40px;
 }
-	.Dc{
+.Dc{
 font-size: 20px;  
   color: black;
   font-family: 'Teko', sans-serif;
 top: 250px;
 position: absolute;
+text-align: justify;
 }
 .portada{
   position: absolute;
