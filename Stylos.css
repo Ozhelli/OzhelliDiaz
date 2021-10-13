@@ -223,6 +223,13 @@ top: 380px
   top:580px;
   font-size: 40px;
 }
+	.Dc{
+font-size: 20px;  
+  color: black;
+  font-family: 'Teko', sans-serif;
+top: 450px;
+position: absolute;
+}
 .portada{
   position: absolute;
   right: 100px;
