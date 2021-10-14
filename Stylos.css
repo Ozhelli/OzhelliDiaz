@@ -258,76 +258,81 @@ position: absolute;
 }
 @media screen and (max-width: 500px){
   .redes-container{
-   position: absolute;
-   right: 75px;
-
-
-  }
-  .home{
-   
-    position: absolute;
-    top: 130px;
-    left:100px;
+    position: relative;
+    width: 100%;
+    left: 50px;
     
+     
   }
-  .About{
-    position: absolute;
-    top: 130px;
-    left: 200px;
+    .Dc{
+      font-size: 25px;  
+        color: black;
+        font-family: 'Teko', sans-serif;
+      position: absolute;
+      text-align: justify;
+      margin:40px;
+      top: 730px;
+    }
+    .home{
+     
+      position: absolute;
+      margin-top: 40px;
+      left:100px;
+      
+    }
+    .About{
+      position: absolute;
+      margin-top: 40px;
+      left: 200px;
+    }
+    
+   .enfermedad{
+  width: 300px;
+  height: 250px;
+  position: absolute;
+   }
+    .tituloAE{
+      position: absolute;
+      margin-top: 100px;
+    }
+    .hdiario{
+      top: 160px;
+      left: 5px;
+    }
+    .C2{
+   position:absolute;
+   margin-top: 500px;
+    }
+    .Desc2{
+      position: absolute;
+     margin-top: 550px;
+     margin-right: 25px;
+    }
+    .C1{
+      position: absolute;
+      margin-top:500px;
+      margin-right: -40px;
+    }
+    .Desc1{
+      position: absolute;
+      margin-top:520px;
+      width: 100%;
+    }
+  .Rd{
+   
+    margin-top:100px;
+    
+    right: 60px;
+    font-size: 40px;
   }
   
-  .enfermedad{
+  .portada{
     position: absolute;
-    left: 40px;
-    top:350px;
-   width: 50%;
-   height: 50%;
-
+    right: 100px;
   }
-  .tituloAE{
-    position:absolute;
-    left: 40px;
-    top: 470px;
-  }
-  .hdiario{
-    top: 160px;
-    left: 5px;
-  }
-  .C2{
-    position: absolute;
-    top:700px;
-    right: 90px;
-  }
-  .Desc2{
-    position: absolute;
-    right: 90px;
-    top: 870px; 
-  }
-  .C1{
-    position: absolute;
-    top: 1000px;
-    right: 130px;
-  }
-  .Desc1{
-    position: absolute;
-    left: 83px;
-    top: 1170px;
-    font-size: 30px;
+  .Parrafo1{
+    font-size: 20px;
     width: 100%;
+    position: absolute;
+    left:-200px;
   }
-.Rd{
-  top:580px;
-  font-size: 40px;
-}
-
-.portada{
-  position: absolute;
-  right: 100px;
-}
-.Parrafo1{
-  font-size: 20px;
-  width: 100%;
-  position: absolute;
-  left:-200px;
-}
-}
